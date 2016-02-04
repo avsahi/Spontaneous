@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+pod 'GPUberView'
+pod 'HTPressableButton'
+pod 'WSCoachMarksView'
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'ASValueTrackingSlider'
